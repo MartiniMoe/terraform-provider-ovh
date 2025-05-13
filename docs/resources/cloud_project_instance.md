@@ -54,7 +54,7 @@ The following arguments are supported:
     * `network` - (Optional, Forces new resource) Existing private network
       * `id` - (Optional, Forces new resource) Network ID
       * `subnet_id` - (Optional, Forces new resource) Existing subnet ID
-    * network_create - (Optional, Forces new resource) Information to create a new private network
+    * `network_create` - (Optional, Forces new resource) Information to create a new private network
       * `name` - (Optional, Forces new resource) Network name
       * `vlan_id` - (Optional, Forces new resource) Network vlan ID
       * `subnet` - (Optional, Forces new resource) New subnet information
